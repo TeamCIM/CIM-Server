@@ -922,6 +922,11 @@
 			dependencies: ["6C0F3FD0827D165A"]
 			icon: "create:brass_sheet"
 			id: "621837D9DDEC3D41"
+			rewards: [{
+				id: "65D1D4FADC8B793A"
+				item: "create:smart_chute"
+				type: "item"
+			}]
 			tasks: [{
 				id: "428C3F78CC1EDCA4"
 				item: "create:brass_sheet"
@@ -1149,6 +1154,11 @@
 		{
 			dependencies: ["7FDEC500A8643564"]
 			id: "4EAB1E27E54A8FC8"
+			rewards: [{
+				id: "2D2815429CF58A0C"
+				item: "create:deployer"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1C9FBDB5C3DCECD4"
 				item: "create_connected:control_chip"

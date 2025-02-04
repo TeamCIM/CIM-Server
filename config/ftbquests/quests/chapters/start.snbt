@@ -190,7 +190,7 @@
 				title: "{check.cim.all}"
 				type: "checkmark"
 			}]
-			title: "CIM rc1,Playable ,Not Release!"
+			title: "CIM rc2,Playable ,Not Release!"
 			x: -7.5d
 			y: 0.0d
 		}

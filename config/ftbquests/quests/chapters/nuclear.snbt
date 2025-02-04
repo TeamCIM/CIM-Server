@@ -96,14 +96,6 @@
 		}
 		{
 			height: 1.0d
-			image: "mekanism:block/models/chemical_infuser"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.5d
-			y: 0.0d
-		}
-		{
-			height: 1.0d
 			image: "mekanism:block/enrichment_chamber/front_active"
 			rotation: 0.0d
 			width: 1.0d
@@ -124,14 +116,6 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -8.5d
-			y: 3.0d
-		}
-		{
-			height: 1.0d
-			image: "mekanism:block/models/chemical_oxidizer"
-			rotation: 0.0d
-			width: 1.0d
-			x: -10.5d
 			y: 3.0d
 		}
 		{
@@ -157,14 +141,6 @@
 			width: 1.0d
 			x: -5.5d
 			y: 2.0d
-		}
-		{
-			height: 1.0d
-			image: "mekanism:block/models/chemical_oxidizer"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.5d
-			y: 0.0d
 		}
 		{
 			height: 1.0d
@@ -245,22 +221,6 @@
 			width: 1.0d
 			x: -6.5d
 			y: 1.0d
-		}
-		{
-			height: 1.0d
-			image: "mekanism:block/models/chemical_washer"
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.0d
-			y: 7.0d
-		}
-		{
-			height: 1.0d
-			image: "mekanism:block/models/chemical_dissolution_chamber_1"
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.5d
-			y: 7.0d
 		}
 		{
 			height: 2.0d
@@ -494,6 +454,62 @@
 			x: 3.5d
 			y: 7.0d
 		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/inject.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/inject.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/inject.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/oxy.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/oxy.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/delo.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/delo.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 7.0d
+		}
 	]
 	order_index: 0
 	quest_links: [ ]
@@ -696,6 +712,11 @@
 		{
 			dependencies: ["100CBE2D3249B99F"]
 			id: "67C8A34CC1B1EFF9"
+			rewards: [{
+				id: "204DACD7E1E9AC72"
+				item: "mekanismgenerators:fission_fuel_assembly"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1C8B6F36043AFF98"
 				item: "mekanism:ingot_uranium"
@@ -855,6 +876,11 @@
 		{
 			dependencies: ["14545A6A3AB009B9"]
 			id: "6484156ED43474FF"
+			rewards: [{
+				id: "22C2CAEBAE040AC5"
+				item: "mekanism:basic_induction_cell"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3571E25D59AEF905"
 				item: "mekanism:pellet_plutonium"
@@ -904,6 +930,12 @@
 		{
 			dependencies: ["67AF662BCFE11308"]
 			id: "74EC8719AF8D7E45"
+			rewards: [{
+				count: 16
+				id: "7036005D0BC4C005"
+				item: "mekanism:pellet_polonium"
+				type: "item"
+			}]
 			size: 3.0d
 			tasks: [{
 				id: "1CF7F1A86BE5F769"

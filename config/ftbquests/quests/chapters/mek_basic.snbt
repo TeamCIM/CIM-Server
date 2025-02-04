@@ -990,6 +990,12 @@
 				"79205F0103B5EFEF"
 			]
 			id: "0DC86E18D9EA9B21"
+			rewards: [{
+				count: 8
+				id: "4C9AF521807EE836"
+				item: "mekanism:basic_logistical_transporter"
+				type: "item"
+			}]
 			tasks: [{
 				id: "665388A580D76410"
 				item: "mekanism:enriched_iron"
@@ -1073,6 +1079,22 @@
 		{
 			dependencies: ["71F598645CF4A8AB"]
 			id: "042DA333F6E258E4"
+			rewards: [{
+				id: "64072F989FE3F715"
+				item: {
+					Count: 1
+					id: "mekanism:configurator"
+					tag: {
+						mekData: {
+							EnergyContainers: [{
+								Container: 0b
+								stored: "60000"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4AC3F8C04EF60CA7"
 				item: "mekanism:basic_control_circuit"
@@ -1149,6 +1171,17 @@
 				"22F74D1425EB4607"
 			]
 			id: "701EEB5C1392CEEE"
+			rewards: [{
+				id: "679C11E2B44860D0"
+				item: {
+					Count: 1
+					id: "create_jetpack:netherite_jetpack"
+					tag: {
+						Air: 900
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "314A4CE93226DD25"
 				item: "minecraft:netherite_ingot"

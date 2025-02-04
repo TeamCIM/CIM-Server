@@ -1,0 +1,264 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lapis"
+	group: "42A499E14EC54388"
+	icon: "ue_addonsp2:enchanted_mechanism"
+	id: "48725E212C5FFA91"
+	images: [
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			order: -99
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			order: -99
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/spout.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			order: -99
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "sophisticatedcore:block/xp_still"
+			rotation: 0.0d
+			width: 0.03125d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "cofh_core:block/fluids/experience_still"
+			rotation: 0.0d
+			width: 0.05d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/experience_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "crystal_clear:block/copper_clear_glass_casing"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 0.5d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "509D0D3ACD516CF6"
+			tasks: [{
+				id: "0FDB9359A06A0E5B"
+				item: "ue_addons:iron_mechanism"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "252539452CF4D131"
+			tasks: [{
+				id: "5C60A5969A7121CA"
+				item: "create:zinc_nugget"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			id: "028C34858D87B7FF"
+			tasks: [{
+				id: "59EC42260AAC5B77"
+				item: "minecraft:lapis_lazuli"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"509D0D3ACD516CF6"
+				"028C34858D87B7FF"
+				"252539452CF4D131"
+			]
+			id: "1CADBAAC7FC31EE3"
+			tasks: [{
+				id: "63AFC321689B6611"
+				item: "ue_addonsp2:incomplete_enchanted_mechanism"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1CADBAAC7FC31EE3"]
+			id: "36965E5014A1EDD7"
+			rewards: [{
+				id: "5D16C4A4C246D1AB"
+				item: "create_enchantment_industry:enchanting_guide"
+				type: "item"
+			}]
+			size: 3.0d
+			tasks: [{
+				id: "6EA4188B63A2E58F"
+				item: "ue_addonsp2:enchanted_mechanism"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+	]
+	title: "lapis"
+}

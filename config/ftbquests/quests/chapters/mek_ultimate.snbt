@@ -357,6 +357,11 @@
 		{
 			dependencies: ["3314D70FF4EFC718"]
 			id: "2C3E1BD5F7EBBB8D"
+			rewards: [{
+				id: "72661DAC49C4614E"
+				item: "mekanism:ultimate_chemical_tank"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4E61CE03EA1B8109"
 				item: "mekanism:ultimate_control_circuit"
@@ -480,6 +485,11 @@
 		{
 			dependencies: ["6BF1B03524FF33D2"]
 			id: "7CD27F801C07F59F"
+			rewards: [{
+				id: "6D7C614BCD2B5A24"
+				item: "mekanism:chemical_dissolution_chamber"
+				type: "item"
+			}]
 			size: 3.0d
 			tasks: [{
 				id: "3F95FD09765F4D4B"

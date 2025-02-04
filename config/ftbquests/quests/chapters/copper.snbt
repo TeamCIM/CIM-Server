@@ -2055,6 +2055,11 @@
 		}
 		{
 			id: "265F9B4026BC6DA6"
+			rewards: [{
+				id: "0C6FFA326D7ACA28"
+				item: "create:fluid_pipe"
+				type: "item"
+			}]
 			tasks: [{
 				id: "42C08A8B21C5BADC"
 				item: "thermal:latex_bucket"

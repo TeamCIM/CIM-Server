@@ -120,58 +120,26 @@
 		}
 		{
 			height: 1.0d
-			image: "createaddition:block/rolling_mill/andesite_casing_short"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
-			y: -0.5d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/piston_side"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
-			y: -0.7d
-		}
-		{
-			height: 1.0d
-			image: "create_power_loader:block/andesite_chunk_loader_side"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
-			y: -0.5d
-		}
-		{
-			height: 1.0d
-			image: "vintageimprovements:block/andesite_frame"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
-			y: -0.5d
-		}
-		{
-			height: 0.5d
-			image: "vintageimprovements:item/iron_spring"
-			rotation: 135.0d
-			width: 0.5d
-			x: -0.7d
-			y: -0.6d
-		}
-		{
-			height: 0.5d
-			image: "vintageimprovements:item/iron_spring"
-			rotation: 135.0d
-			width: 0.5d
-			x: -1.3d
-			y: -0.6d
-		}
-		{
-			height: 1.0d
 			image: "ftbquests:textures/ftbmisc/belt2.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/vabra.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
 			y: 0.0d
 		}
 	]
@@ -228,6 +196,11 @@
 		{
 			dependencies: ["33FA51517C63CC4E"]
 			id: "2AA27E60E412A5B9"
+			rewards: [{
+				id: "32AA0ACBABBD6927"
+				item: "create:stockpile_switch"
+				type: "item"
+			}]
 			size: 3.0d
 			tasks: [{
 				id: "79C252051BED9971"

@@ -438,6 +438,11 @@
 		{
 			dependencies: ["0C801E18E65526BB"]
 			id: "2ADEC0A83BD096B0"
+			rewards: [{
+				id: "2FC2A29221FDE182"
+				item: "ae2:cell_component_1k"
+				type: "item"
+			}]
 			size: 3.0d
 			tasks: [{
 				id: "5A1A04454D85EB14"

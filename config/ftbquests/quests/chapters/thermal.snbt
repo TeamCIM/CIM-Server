@@ -540,6 +540,11 @@
 				"4C67BF380FABB648"
 			]
 			id: "436B445C215303E6"
+			rewards: [{
+				id: "3504D6151D7F6873"
+				item: "thermal:rf_coil_augment"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7C4687E336E76519"
 				item: "thermal:rf_coil"

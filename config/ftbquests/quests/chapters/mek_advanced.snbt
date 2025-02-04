@@ -683,6 +683,11 @@
 		{
 			dependencies: ["3BC88AB27B3EB7A6"]
 			id: "3FD4C25420280F00"
+			rewards: [{
+				id: "1C428E8D239750CC"
+				item: "mekanism:basic_fluid_tank"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3CF41C6E9543C973"
 				item: "mekanism:advanced_control_circuit"
@@ -738,6 +743,11 @@
 		{
 			dependencies: ["09E9F27FB08FE091"]
 			id: "20E10C3D25422044"
+			rewards: [{
+				id: "225889D98C5BB2CF"
+				item: "mekanism:nutritional_liquifier"
+				type: "item"
+			}]
 			size: 3.0d
 			tasks: [{
 				id: "4E2C19981B78568E"

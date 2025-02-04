@@ -1748,6 +1748,11 @@
 		{
 			dependencies: ["7E95344D4857B3E3"]
 			id: "536376D376F1DD0A"
+			rewards: [{
+				id: "21B2AD525355950A"
+				item: "ae2:crafting_accelerator"
+				type: "item"
+			}]
 			size: 3.0d
 			tasks: [{
 				id: "52FF0CBB9BA7D8A8"

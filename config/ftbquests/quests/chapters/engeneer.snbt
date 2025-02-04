@@ -436,6 +436,15 @@
 		{
 			dependencies: ["05FA25F4ACE8DB9A"]
 			id: "343769C50A84E3FD"
+			rewards: [{
+				id: "3C6A92FC4F7F2053"
+				item: {
+					Count: 1
+					id: "ae2:fluid_storage_cell_256k"
+					tag: { }
+				}
+				type: "item"
+			}]
 			size: 3.0d
 			tasks: [{
 				id: "16FF1CEB33D59B2A"

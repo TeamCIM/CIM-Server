@@ -259,6 +259,12 @@
 		{
 			dependencies: ["2D33818CADE67772"]
 			id: "352087D16D4CF471"
+			rewards: [{
+				count: 16
+				id: "1A5194B9CFECE3A3"
+				item: "mekanism:structural_glass"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7B79B511B37C19E3"
 				item: "mekanism:hdpe_sheet"
@@ -451,6 +457,11 @@
 		{
 			dependencies: ["079748061428430A"]
 			id: "1931BB5F5BBC0EAB"
+			rewards: [{
+				id: "2A599EF537103B37"
+				item: "mekanism:radioactive_waste_barrel"
+				type: "item"
+			}]
 			size: 3.0d
 			tasks: [{
 				id: "61113515564D908A"

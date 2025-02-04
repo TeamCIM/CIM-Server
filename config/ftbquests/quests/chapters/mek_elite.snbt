@@ -617,6 +617,11 @@
 		{
 			dependencies: ["2F09F4AEEE43775D"]
 			id: "584636C41FD437DD"
+			rewards: [{
+				id: "00558EF2C50FA031"
+				item: "mekanism:ultimate_mechanical_pipe"
+				type: "item"
+			}]
 			tasks: [{
 				id: "10A88516C7FE56CB"
 				item: "ue_addons:diode"
@@ -641,6 +646,11 @@
 				"64D6F2DA54A51EB6"
 			]
 			id: "1E80FBCF6087DDED"
+			rewards: [{
+				id: "7F241179B07F20A7"
+				item: "ue_addons:tetrachlorosilane_bucket"
+				type: "item"
+			}]
 			tasks: [{
 				id: "46361E228D177BC7"
 				item: "ue_addons:raw_silicon"
@@ -708,6 +718,11 @@
 		{
 			dependencies: ["0BD4A86882D32D28"]
 			id: "50C18AC2E1F14AD9"
+			rewards: [{
+				id: "19073981B7FE6D18"
+				item: "mekanism:upgrade_gas"
+				type: "item"
+			}]
 			tasks: [{
 				id: "71C3503A4BB9D7FC"
 				item: "mekanism:elite_control_circuit"
@@ -797,6 +812,11 @@
 		{
 			dependencies: ["2C35542BD1A66342"]
 			id: "42BCD9083394CC0D"
+			rewards: [{
+				id: "437673A0538AB4B9"
+				item: "mekanism:teleporter"
+				type: "item"
+			}]
 			size: 3.0d
 			tasks: [{
 				id: "77ED12C38A9337F7"

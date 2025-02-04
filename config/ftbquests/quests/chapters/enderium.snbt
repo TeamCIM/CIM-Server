@@ -760,6 +760,12 @@
 		{
 			dependencies: ["50BB0A473AC9A079"]
 			id: "3973ACE4766DDD83"
+			rewards: [{
+				count: 4
+				id: "28FD26552C5FCE21"
+				item: "createutilities:void_motor"
+				type: "item"
+			}]
 			size: 3.0d
 			tasks: [{
 				id: "7E774D3C10B8E64A"

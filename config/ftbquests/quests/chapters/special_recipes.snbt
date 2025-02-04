@@ -40,22 +40,6 @@
 		}
 		{
 			height: 1.0d
-			image: "minecraft:block/oak_planks"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: -1.5d
-		}
-		{
-			height: 0.5d
-			image: "minecraft:block/black_concrete"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: -1.7d
-		}
-		{
-			height: 1.0d
 			image: "ftbquests:textures/ftbmisc/letters/1.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -168,22 +152,6 @@
 		}
 		{
 			height: 1.0d
-			image: "minecraft:block/oak_planks"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: 1.5d
-		}
-		{
-			height: 0.5d
-			image: "minecraft:block/black_concrete"
-			rotation: 0.0d
-			width: 0.5d
-			x: -6.2d
-			y: 1.3d
-		}
-		{
-			height: 1.0d
 			image: "ftbquests:textures/ftbmisc/letters/0.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -213,46 +181,6 @@
 			width: 1.0d
 			x: -3.5d
 			y: 1.5d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/oak_planks"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: 2.5d
-		}
-		{
-			height: 0.3d
-			image: "minecraft:block/black_concrete"
-			rotation: 0.0d
-			width: 0.4d
-			x: -6.25d
-			y: 2.4d
-		}
-		{
-			height: 0.3d
-			image: "minecraft:block/black_concrete"
-			rotation: 0.0d
-			width: 0.4d
-			x: -5.7d
-			y: 2.4d
-		}
-		{
-			height: 0.3d
-			image: "minecraft:block/black_concrete"
-			rotation: 0.0d
-			width: 0.4d
-			x: -6.25d
-			y: 2.85d
-		}
-		{
-			height: 0.3d
-			image: "minecraft:block/black_concrete"
-			rotation: 0.0d
-			width: 0.4d
-			x: -5.7d
-			y: 2.85d
 		}
 		{
 			height: 1.0d
@@ -420,23 +348,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -1.0d
-			y: -1.5d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/cobblestone"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
 			y: -0.5d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/cobblestone"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
-			y: 0.5d
 		}
 		{
 			height: 1.0d
@@ -445,22 +357,6 @@
 			width: 1.0d
 			x: -1.0d
 			y: 1.5d
-		}
-		{
-			height: 0.5d
-			image: "minecraft:block/black_concrete"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
-			y: -1.7d
-		}
-		{
-			height: 0.5d
-			image: "minecraft:block/black_concrete"
-			rotation: 0.0d
-			width: 0.5d
-			x: -1.2d
-			y: 0.3d
 		}
 		{
 			height: 1.0d
@@ -741,22 +637,6 @@
 			width: 1.0d
 			x: 1.0d
 			y: -0.5d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/stone"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
-			y: 2.5d
-		}
-		{
-			height: 0.5d
-			image: "minecraft:block/black_concrete"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
-			y: 2.3d
 		}
 		{
 			height: 1.0d
@@ -2245,6 +2125,7310 @@
 			width: 1.0d
 			x: 21.0d
 			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/slab.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/stair.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/fence.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/cobbslab.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/cobbstair.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/stoneslab.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/thermal_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 24.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/invar_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 24.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/invar_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 24.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/tin_gear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 24.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_tin"
+			rotation: 0.0d
+			width: 1.0d
+			x: 24.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/invar_coin_4"
+			rotation: 0.0d
+			width: 1.0d
+			x: 24.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/redstone_servo"
+			rotation: 0.0d
+			width: 1.0d
+			x: 24.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/rf_coil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 24.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/invar_gear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 24.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 25.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/lead_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/lead_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/lead_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/invar_gear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_silver"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/electrum_coin_4"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/redstone_servo"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/rf_coil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/electrum_gear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/signalum_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 34.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/signalum_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 34.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/signalum_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 34.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/signalum_gear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 34.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_copper"
+			rotation: 0.0d
+			width: 1.0d
+			x: 34.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/signalum_coin_4"
+			rotation: 0.0d
+			width: 1.0d
+			x: 34.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 34.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/rf_coil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 34.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/lead_gear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 34.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 36.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/lumium_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 39.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/lumium_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 39.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/lumium_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 39.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/lumium_gear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 39.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/glowstone_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 39.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/lumium_coin_4"
+			rotation: 0.0d
+			width: 1.0d
+			x: 39.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/nickel_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 39.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/rf_coil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 39.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/lead_gear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 39.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 41.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/enderium_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 44.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/enderium_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 44.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/enderium_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 44.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/lumium_gear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 44.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/ender_pearl_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 44.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/enderium_coin_4"
+			rotation: 0.0d
+			width: 1.0d
+			x: 44.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/ender_pearl"
+			rotation: 0.0d
+			width: 1.0d
+			x: 44.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/rf_coil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 44.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/enderium_gear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 44.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 45.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 46.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/mekanism_basic_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 49.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/basic_control_circuit"
+			rotation: 0.0d
+			width: 1.0d
+			x: 49.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/enriched_iron"
+			rotation: 0.0d
+			width: 1.0d
+			x: 49.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dust_steel"
+			rotation: 0.0d
+			width: 1.0d
+			x: 49.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dirty_dust_iron"
+			rotation: 0.0d
+			width: 1.0d
+			x: 49.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/basic_tier_installer"
+			rotation: 0.0d
+			width: 1.0d
+			x: 49.0d
+			y: 2.5d
+		}
+		{
+			height: 0.5d
+			image: "mekanism:block/models/multipart/basic_logistical_transporter"
+			rotation: 0.0d
+			width: 0.5d
+			x: 49.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/enriched_carbon"
+			rotation: 0.0d
+			width: 1.0d
+			x: 49.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dust_steel"
+			rotation: 0.0d
+			width: 1.0d
+			x: 49.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 50.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 51.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/mekanism_advanced_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 54.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/advanced_control_circuit"
+			rotation: 0.0d
+			width: 1.0d
+			x: 54.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/enriched_redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 54.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dust_steel"
+			rotation: 0.0d
+			width: 1.0d
+			x: 54.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 54.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/advanced_tier_installer"
+			rotation: 0.0d
+			width: 1.0d
+			x: 54.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/alloy_infused"
+			rotation: 0.0d
+			width: 1.0d
+			x: 54.0d
+			y: 3.5d
+		}
+		{
+			height: 0.5d
+			image: "mekanism:block/models/multipart/advanced_logistical_transporter"
+			rotation: 0.0d
+			width: 0.5d
+			x: 54.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dust_bronze"
+			rotation: 0.0d
+			width: 1.0d
+			x: 54.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 55.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 56.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/mekanism_elite_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 59.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/elite_control_circuit"
+			rotation: 0.0d
+			width: 1.0d
+			x: 59.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/enriched_diamond"
+			rotation: 0.0d
+			width: 1.0d
+			x: 59.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dust_steel"
+			rotation: 0.0d
+			width: 1.0d
+			x: 59.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dust_diamond"
+			rotation: 0.0d
+			width: 1.0d
+			x: 59.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/elite_tier_installer"
+			rotation: 0.0d
+			width: 1.0d
+			x: 59.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/alloy_reinforced"
+			rotation: 0.0d
+			width: 1.0d
+			x: 59.0d
+			y: 3.5d
+		}
+		{
+			height: 0.5d
+			image: "mekanism:block/models/multipart/elite_logistical_transporter"
+			rotation: 0.0d
+			width: 0.5d
+			x: 59.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/glowstone_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 59.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 60.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 61.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/mekanism_ultimate_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 64.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/ultimate_control_circuit"
+			rotation: 0.0d
+			width: 1.0d
+			x: 64.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/alloy_atomic"
+			rotation: 0.0d
+			width: 1.0d
+			x: 64.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dust_steel"
+			rotation: 0.0d
+			width: 1.0d
+			x: 64.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/alloy_atomic"
+			rotation: 0.0d
+			width: 1.0d
+			x: 64.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/ultimate_tier_installer"
+			rotation: 0.0d
+			width: 1.0d
+			x: 64.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/enriched_refined_obsidian"
+			rotation: 0.0d
+			width: 1.0d
+			x: 64.0d
+			y: 3.5d
+		}
+		{
+			height: 0.5d
+			image: "mekanism:block/models/multipart/ultimate_logistical_transporter"
+			rotation: 0.0d
+			width: 0.5d
+			x: 64.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dust_refined_obsidian"
+			rotation: 0.0d
+			width: 1.0d
+			x: 64.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 65.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 66.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addonsp2:item/enchan_mech"
+			rotation: 0.0d
+			width: 1.0d
+			x: 69.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/lapis_lazuli"
+			rotation: 0.0d
+			width: 1.0d
+			x: 69.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/experience_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 69.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/blue_dye"
+			rotation: 0.0d
+			width: 1.0d
+			x: 69.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/zinc_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 69.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dust_lapis_lazuli"
+			rotation: 0.0d
+			width: 1.0d
+			x: 69.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/lapis_gear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 69.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanismtools:item/lapis_lazuli/shovel"
+			rotation: 0.0d
+			width: 1.0d
+			x: 69.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 69.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/spawn_egg_overlay"
+			rotation: 0.0d
+			width: 1.0d
+			x: 69.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 70.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 71.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/structural_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 74.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/electrolytic_core"
+			rotation: 0.0d
+			width: 1.0d
+			x: 74.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/hdpe_pellet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 74.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dirty_dust_lead"
+			rotation: 0.0d
+			width: 1.0d
+			x: 74.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dirty_dust_copper"
+			rotation: 0.0d
+			width: 1.0d
+			x: 74.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/clump_osmium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 74.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/enriched_iron"
+			rotation: 0.0d
+			width: 1.0d
+			x: 74.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/structural_glass"
+			rotation: 0.0d
+			width: 1.0d
+			x: 74.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/raw_osmium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 74.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 75.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 76.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/logic_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 79.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/printed_logic_processor"
+			rotation: 0.0d
+			width: 1.0d
+			x: 79.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/matter_ball"
+			rotation: 0.0d
+			width: 1.0d
+			x: 79.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/silicon"
+			rotation: 0.0d
+			width: 1.0d
+			x: 79.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/fluix_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 79.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 79.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/logic_processor"
+			rotation: 0.0d
+			width: 1.0d
+			x: 79.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 79.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/silicon"
+			rotation: 0.0d
+			width: 1.0d
+			x: 79.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 80.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 81.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/calculation_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 84.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/printed_calculation_processor"
+			rotation: 0.0d
+			width: 1.0d
+			x: 84.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/matter_ball"
+			rotation: 0.0d
+			width: 1.0d
+			x: 84.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/silicon"
+			rotation: 0.0d
+			width: 1.0d
+			x: 84.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/ender_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 84.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 84.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 84.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/calculation_processor"
+			rotation: 0.0d
+			width: 1.0d
+			x: 84.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/silicon"
+			rotation: 0.0d
+			width: 1.0d
+			x: 84.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 85.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 86.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/engineering_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 89.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/printed_engineering_processor"
+			rotation: 0.0d
+			width: 1.0d
+			x: 89.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/matter_ball"
+			rotation: 0.0d
+			width: 1.0d
+			x: 89.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/silicon"
+			rotation: 0.0d
+			width: 1.0d
+			x: 89.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 89.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 89.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/silicon"
+			rotation: 0.0d
+			width: 1.0d
+			x: 89.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/engineering_processor"
+			rotation: 0.0d
+			width: 1.0d
+			x: 89.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/sky_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 89.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 90.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 91.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/nuclear_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 94.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/pellet_polonium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 94.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/pellet_plutonium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 94.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/sps_casing"
+			rotation: 0.0d
+			width: 1.0d
+			x: 94.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/crystal_uranium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 94.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/reprocessed_fissile_fragment"
+			rotation: 0.0d
+			width: 1.0d
+			x: 94.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/yellow_cake_uranium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 94.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/qio_drive_array/side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 94.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			rotation: 0.0d
+			width: 1.0d
+			x: 94.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 95.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 96.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/antimatter_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 99.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/command_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 99.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/pellet_antimatter"
+			rotation: 0.0d
+			width: 1.0d
+			x: 99.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/sps_casing"
+			rotation: 0.0d
+			width: 1.0d
+			x: 99.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/pellet_polonium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 99.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/pellet_plutonium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 99.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/antiprotonic_nucleosynthesizer_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 99.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/antiprotonic_nucleosynthesizer_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 99.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/netherite_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 99.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 100.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/pa.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 101.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/mao.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -3.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -1.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gravel"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 0.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_iron"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/copper_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/mao.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "create:block/andesite_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -3.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/andesite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -1.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_copper"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_zinc"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/brass_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/zinc_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/gold_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/magma"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 13.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -3.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -1.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/black_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 0.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/flint"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_gold"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/gold_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/mao.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/ingot_tin"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/mao.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -3.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -1.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_lead"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_tin"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_osmium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/dust_fluorite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/ingot_lead"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/ingot_osmium"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/copper_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/silver_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/nickel_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -3.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -1.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_nickel"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_silver"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/invar_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/bronze_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/constantan_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/electrum_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/lumium_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/signalum_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "aquaculture:item/neptunium_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/clay"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/mao.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/mao.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/ruby"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/sapphire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/apatite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/cinnabar"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/niter"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/sulfur"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/limestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -3.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -1.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/orange_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 0.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/bitumen"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/ruby"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/sapphire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/apatite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/cinnabar"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/niter"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/sulfur"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/bitumen"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 17.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/crush.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/fan_side"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 19.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/mao.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/glowstone_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/amethyst_shard"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/white_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -1.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -3.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 0.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/glowstone_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/amethyst_shard"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/quartz_block_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/mao.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/certus_quartz_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/nether_quartz_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -3.5d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/diorite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -1.5d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/certus_quartz_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "ae2:item/nether_quartz_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/redstone_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 22.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/mao.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -3.5d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/granite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -1.5d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -3.5d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gravel"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -1.5d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "xkdeco:block/fish_tank_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 0.5d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/diamond"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/emerald"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/coal"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/lapis_lazuli"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/ancient_debris_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/clay_ball"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/mao.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/netherite_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/diamond"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/emerald"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/lapis_lazuli"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/clay_ball"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/block_raw_uranium"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 25.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 24.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/mao.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 24.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/ingot_uranium"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 24.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -3.5d
+			y: 24.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/uranium_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 24.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: -1.5d
+			y: 24.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/crushed_raw_uranium"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 24.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/brass_hand"
+			rotation: 135.0d
+			width: 1.0d
+			x: 12.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/wooden_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/wheat_stage7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/wheat_stage2"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/wooden_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/stone_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 11.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 11.0d
+		}
+		{
+			height: 1.0d
+			image: "chisel:block/raw/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: 11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 11.0d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/iron_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 12.0d
+		}
+		{
+			height: 0.3d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 0.3d
+			x: 13.511904761904702d
+			y: 12.184523809523789d
+		}
+		{
+			height: 0.3d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 0.3d
+			x: 13.5d
+			y: 12.0d
+		}
+		{
+			height: 0.3d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 0.3d
+			x: 13.7414965986394d
+			y: 12.018707482993172d
+		}
+		{
+			height: 0.3d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 0.3d
+			x: 13.297619047618987d
+			y: 12.005952380952358d
+		}
+		{
+			height: 0.3d
+			image: "minecraft:block/carved_pumpkin"
+			rotation: 0.0d
+			width: 0.3d
+			x: 13.496598639455726d
+			y: 11.773809523809504d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/copper_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/fire_1"
+			rotation: 0.0d
+			width: 0.03125d
+			x: 13.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/entity/beacon_beam.png"
+			rotation: 0.0d
+			width: 0.3d
+			x: 13.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "cofh_core:textures/particle/fire_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.756802721088391d
+			y: 13.179421768707464d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/gold_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 14.0d
+		}
+		{
+			height: 1.0d
+			image: "chisel:block/raw/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: 14.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 14.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gold_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 14.0d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/andsite_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chisel:block/raw/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/andesite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "ue_addonsp2:item/enchan_mech"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/experience_bottle"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/thermal_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/campfire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/lead_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/tnt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/signalum_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.88775510204077d
+			y: 18.7329931972789d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/lumium_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 20.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 20.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/torch"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 20.0d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/enderium_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 0.0d
+			width: 1.375d
+			x: 12.5d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/chorus_fruit"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 21.0d
 		}
 	]
 	order_index: 1
