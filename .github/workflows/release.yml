@@ -29,24 +29,3 @@ jobs:
       with:
         name: release-zip
         path: release-*.zip
-
-    - name: Create Release
-      id: create_release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
-      with:
-        tag_name: ${{ github.event.ref }}
-        release_name: Release ${{ github.event.ref }}
-        draft: false
-        prerelease: false
-
-    - name: Upload Release Asset
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: release-*.zip
-        asset_name: release-${{ steps.create_release.outputs.id }}.zip
-        asset_content_type: application/zip
