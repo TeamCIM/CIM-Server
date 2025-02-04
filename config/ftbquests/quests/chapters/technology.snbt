@@ -1,0 +1,743 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "technology"
+	group: "713DAD32DDEB67FD"
+	icon: "xkdeco:tech_console"
+	id: "02269DB38DCB27CE"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_sapling"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -5.3d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cherry_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/cherry_sign"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -5.3d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1m.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2n.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2e.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2c.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.8d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2r.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2a.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.2d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2f.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.9d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2t.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.7d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2i.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.8d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1f.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2o.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.2d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2r.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.9d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2g.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.6d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2e.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.3d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.7d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.1d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/dot.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/letters/1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -10.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/letters/add.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -4.5d
+			y: -7.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/forge.png"
+			rotation: 0.0d
+			width: 4.88d
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			height: 2.0d
+			image: "ue_addonsp2:item/cim"
+			rotation: 0.0d
+			width: 2.0d
+			x: -14.0d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/vscode.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -14.0d
+			y: 0.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/blockbench.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -12.0d
+			y: -2.0d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/ftbmisc/apps/mcreator.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.0d
+			y: 0.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/bilibili.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.5d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/mcmod.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/windows.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -14.5d
+			y: 2.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/openloader.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -12.5d
+			y: 1.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/apps/windowx2000.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -9.0d
+			y: 2.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/vmware.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.5d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/draw.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.0d
+			y: 3.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/pcl2.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -12.5d
+			y: 4.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/hmcl.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.5d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/xlsx.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.5d
+			y: 4.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/apps/modrinth.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ue_addons:item/error"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			height: 3.0d
+			image: "ue_addonsp2:textures/painting/unknown_entity.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/apps/java.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 4.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/curseforge.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.0d
+			y: 5.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/python.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/apps/explorer.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -12.0d
+			y: -0.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"Mail:&9Unknown_Entity_@outlook.com&r&r"
+			"Video:&bhttps://space.bilibili.com/3461572013853145&r"
+			"QQ:&c161613857&r"
+			"Modrinth:&ahttps://modrinth.com/user/Unknown_Entity_&r"
+			"MCMOD.cn:&3https://center.mcmod.cn/679430/#/home/&r"
+			"CurseForge:&6https://www.curseforge.com/members/UnknownEntity_cn/projects&r"
+		]
+		id: "4D03065565000F1B"
+		tasks: [{
+			id: "60C9A482A4198B31"
+			title: "Feedback"
+			type: "checkmark"
+		}]
+		x: -3.0d
+		y: 2.0d
+	}]
+	title: "{group.cim.tech.title}"
+}

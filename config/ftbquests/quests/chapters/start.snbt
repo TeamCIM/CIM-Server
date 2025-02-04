@@ -1,0 +1,218 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "start"
+	group: ""
+	icon: "minecraft:grass_block"
+	id: "1AA8F04DA47ECF44"
+	images: [{
+		height: 8.0d
+		image: "ue_addons:item/wooden_mechanism"
+		rotation: 0.0d
+		width: 8.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7CF78729D4D87F37"]
+			icon: "ftbquests:book"
+			id: "39883873244581D5"
+			rewards: [{
+				id: "354BF1DA79597098"
+				item: "minecraft:mushroom_stew"
+				type: "item"
+			}]
+			tasks: [{
+				id: "663678EEEC29E609"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.welcome.welcome.title}"
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["39883873244581D5"]
+			icon: "minecraft:crafting_table"
+			id: "253888DD78AF96ED"
+			rewards: [{
+				id: "1DCD463EB4394EA5"
+				type: "xp"
+				xp: 10
+			}]
+			size: 4.0d
+			tasks: [{
+				id: "0DE2F49EA759157D"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.welcome.start.title}"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["{@pagebreak}"]
+			icon: "createdeco:red_industrial_iron_lamp"
+			id: "2A2FC99627074611"
+			rewards: [{
+				id: "7ABEB7DF16494820"
+				item: "biomesoplenty:wildflower"
+				type: "item"
+			}]
+			size: 1.5d
+			subtitle: "{quest.cim.welcome.info.subtitle}"
+			tasks: [{
+				id: "76E56D2F8D450A84"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.welcome.info.title}"
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2A2FC99627074611"]
+			description: [
+				"{quest.cim.welcome.right_click.desc.0}"
+				"{quest.cim.welcome.right_click.desc.1}"
+			]
+			icon: "create:brass_hand"
+			id: "7486A04FDE5F6D50"
+			rewards: [{
+				id: "77F73E59569965CF"
+				item: "minecraft:oak_sapling"
+				type: "item"
+			}]
+			tasks: [{
+				id: "59C8E203EEAB5870"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.welcome.right_click.title}"
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["60D589307F0D457C"]
+			description: [""]
+			icon: "thermal:machine_crucible"
+			id: "414E4844DEB9B1D8"
+			rewards: [{
+				id: "0D21017AD41945CA"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			subtitle: "{quest.cim.welcome.redrawn_texture.subtitle}"
+			tasks: [{
+				id: "667D410FA59A5D7D"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.welcome.redrawn_texture.title}"
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["414E4844DEB9B1D8"]
+			description: [
+				"{quest.cim.welcome.supported_languages.desc.0}"
+				"{quest.cim.welcome.supported_languages.desc.1}"
+			]
+			icon: "minecraft:writable_book"
+			id: "1318DA1651986388"
+			rewards: [{
+				id: "67B224931013967A"
+				item: "minecraft:light_blue_bed"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4185E0B9B0DE3C1E"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.welcome.supported_languages.title}"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1318DA1651986388"]
+			description: [
+				"{quest.cim.welcome.the_author.desc.0}"
+				"{quest.cim.welcome.the_author.desc.1}"
+			]
+			icon: "ue_addons:ue_spawn_egg"
+			id: "2BCD2ED1D98A4D85"
+			rewards: [{
+				id: "47AA1F20B021AD95"
+				item: "ue_addons:ue_spawn_egg"
+				type: "item"
+			}]
+			subtitle: "{quest.cim.welcome.the_author.subtitle}"
+			tasks: [{
+				id: "475449F00BC2F348"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.welcome.the_author.title}"
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2BCD2ED1D98A4D85"]
+			description: ["{quest.cim.welcome.done.desc0}"]
+			icon: "createdeco:decal_creeper"
+			id: "7CF78729D4D87F37"
+			rewards: [{
+				id: "3A02C329F5A87097"
+				item: "minecraft:oxeye_daisy"
+				type: "item"
+			}]
+			subtitle: "{quest.cim.welcome.done.subtitle}"
+			tasks: [{
+				id: "5300481F57980107"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.welcome.done.title}"
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			description: ["你看见这个说明这份CIM是个Beta版本"]
+			id: "4083ADBF34C08EFF"
+			size: 5.0d
+			subtitle: "If you see this, your CIM is in beta version!"
+			tasks: [{
+				id: "4E353B002B8ADC96"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "CIM rc1,Playable ,Not Release!"
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7486A04FDE5F6D50"]
+			description: ["{quest.cim.welcome.recycle.desc.0}"]
+			icon: "ue_addons:incomplete_wooden_mechanism"
+			id: "60D589307F0D457C"
+			rewards: [{
+				id: "5678DDEC010F91B1"
+				item: "minecraft:candle"
+				type: "item"
+			}]
+			tasks: [{
+				id: "22E1DC4F76ABC4A1"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.welcome.recycle.title}"
+			x: 3.0d
+			y: -1.0d
+		}
+	]
+	title: "{group.cim.welcome.title}"
+}

@@ -1,0 +1,918 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nuclear"
+	group: "65785E5B6D945056"
+	icon: "ue_addons:nuclear_mechanism"
+	id: "694B4B5B1598BF13"
+	images: [
+		{
+			height: 1.0d
+			image: "create:block/industrial_iron_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.2d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/basin.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/millstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "vintageimprovements:block/vacuum_base"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "cofh_core:textures/gui/icons/icon_arrow_up_inactive.png"
+			rotation: 180.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:textures/particle/generic_7.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:textures/particle/generic_7.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:textures/particle/generic_7.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:textures/particle/generic_7.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/rotary.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/chemical_infuser"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/enrichment_chamber/front_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/chemical_infuser"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/chemical_infuser"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/chemical_oxidizer"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_pulverizer_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/separate.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/rotary.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/chemical_oxidizer"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/enrichment_chamber/front_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_chiller_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:item/chiller_ingot_cast"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_crucible_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/enrichment_chamber/front_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/crusher/front_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/purification_chamber/front_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/chemical_injection_chamber/front_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 6.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/chemical_crystallizer_elements1"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/chemical_dissolution_chamber_1"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/chemical_washer"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/models/chemical_dissolution_chamber_1"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 7.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/crush.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.0d
+			y: 6.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/crush.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: 4.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/press.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/pellet_plutonium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 7.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3E2F8AEA4BD78D66"]
+			icon: "mekanism:uranium_hexafluoride_bucket"
+			id: "6D28F34858428DC5"
+			tasks: [{
+				id: "3C2573E65484B3B1"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"0A2EA82EF81F78BE"
+				"616EC7CB0BEAE680"
+			]
+			icon: "mekanism:uranium_hexafluoride_bucket"
+			id: "3E2F8AEA4BD78D66"
+			tasks: [{
+				id: "589215C19956A16C"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5C185379A0C9F94C"]
+			icon: "mekanism:uranium_oxide_bucket"
+			id: "616EC7CB0BEAE680"
+			tasks: [{
+				id: "7A40E3C131760375"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1EDDB8673A20DAAB"
+				"58E2952CCF8B8BC3"
+			]
+			icon: "mekanism:hydrofluoric_acid_bucket"
+			id: "0A2EA82EF81F78BE"
+			tasks: [{
+				id: "1CC1216007B5506E"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			id: "152E2C3F12A0D19D"
+			tasks: [{
+				id: "2F646BA7324BF4A1"
+				item: "mekanism:dust_fluorite"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["152E2C3F12A0D19D"]
+			id: "58E2952CCF8B8BC3"
+			tasks: [{
+				id: "09D3FF89ED344F23"
+				item: "mekanism:fluorite_gem"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"2E743E2102B04015"
+				"4CE660979AC8115C"
+			]
+			icon: "mekanism:sulfuric_acid_bucket"
+			id: "1EDDB8673A20DAAB"
+			tasks: [{
+				id: "114B52334D0336E7"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"7D9C89FEA97E392F"
+				"477F3EAB8674FD5E"
+			]
+			icon: "mekanism:sulfur_trioxide_bucket"
+			id: "2E743E2102B04015"
+			tasks: [{
+				id: "0D9F4FA2521A35F2"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			icon: "minecraft:water_bucket"
+			id: "436716FAA01F7EC8"
+			tasks: [{
+				id: "42460C721F0AF0BF"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["436716FAA01F7EC8"]
+			icon: "mekanism:steam_bucket"
+			id: "4CE660979AC8115C"
+			tasks: [{
+				id: "5530D6E28674A47A"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["53528A56A9C12A5D"]
+			icon: "mekanism:sulfur_dioxide_bucket"
+			id: "477F3EAB8674FD5E"
+			tasks: [{
+				id: "3288B3B3C9A68B8A"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -9.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6BDF451F77A37417"]
+			icon: "mekanism:oxygen_bucket"
+			id: "7D9C89FEA97E392F"
+			tasks: [{
+				id: "7B33EDE1C584CEA8"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["551C33B01C970771"]
+			id: "53528A56A9C12A5D"
+			tasks: [{
+				id: "6FCA418C3264DC20"
+				item: "thermal:sulfur_dust"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 3.0d
+		}
+		{
+			id: "551C33B01C970771"
+			tasks: [{
+				id: "2B97499994A8F001"
+				item: "thermal:sulfur"
+				type: "item"
+			}]
+			x: -13.5d
+			y: 3.0d
+		}
+		{
+			icon: "minecraft:water_bucket"
+			id: "6BDF451F77A37417"
+			tasks: [{
+				id: "0F985AADC6B68EB0"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["67C8A34CC1B1EFF9"]
+			id: "5C185379A0C9F94C"
+			tasks: [{
+				id: "3D4CC57C25AE6F02"
+				item: "mekanism:yellow_cake_uranium"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["100CBE2D3249B99F"]
+			id: "67C8A34CC1B1EFF9"
+			tasks: [{
+				id: "1C8B6F36043AFF98"
+				item: "mekanism:ingot_uranium"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3C856608D778B90E"]
+			icon: "ue_addons:uf_bucket"
+			id: "100CBE2D3249B99F"
+			tasks: [{
+				id: "03E8B0940BD78F92"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2B1D3ED62A74D49B"]
+			id: "3C856608D778B90E"
+			tasks: [{
+				id: "5D697038EA561561"
+				item: "mekanism:dust_uranium"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6594C83EAB1A9491"]
+			id: "2B1D3ED62A74D49B"
+			tasks: [{
+				id: "5E8C68C5FE2AF481"
+				item: "mekanism:dirty_dust_uranium"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5AEAF8B7C20B501D"]
+			id: "6594C83EAB1A9491"
+			tasks: [{
+				id: "1511876E06EE7EB9"
+				item: "mekanism:clump_uranium"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"0884BB6423143AEE"
+				"23405B6FFE904B41"
+			]
+			id: "5AEAF8B7C20B501D"
+			tasks: [{
+				id: "61F7CA9671F7C402"
+				item: "mekanism:shard_uranium"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"59F90C32DBD4A69B"
+				"5D0A3C54BC3F53CD"
+				"1EDDB8673A20DAAB"
+			]
+			id: "23405B6FFE904B41"
+			tasks: [{
+				id: "70C405F0E3A4DA69"
+				item: "mekanism:crystal_uranium"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 7.0d
+		}
+		{
+			icon: "mekanism:hydrogen_chloride_bucket"
+			id: "0884BB6423143AEE"
+			tasks: [{
+				id: "05EB1B14E4601CBE"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 6.0d
+		}
+		{
+			icon: "minecraft:water_bucket"
+			id: "59F90C32DBD4A69B"
+			tasks: [{
+				id: "60AF060CB9F37828"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["79D290E4B2E0A198"]
+			id: "5D0A3C54BC3F53CD"
+			tasks: [{
+				id: "471D511A518C8DD2"
+				item: "create:crushed_raw_uranium"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 7.0d
+		}
+		{
+			id: "79D290E4B2E0A198"
+			tasks: [{
+				id: "078AEF8FF0CE399F"
+				item: "mekanism:uranium_ore"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"6D28F34858428DC5"
+				"152E2C3F12A0D19D"
+				"069A243F668ED7C3"
+			]
+			id: "14545A6A3AB009B9"
+			rewards: [{
+				id: "563A5BBC17997BF9"
+				item: "mekanism:reprocessed_fissile_fragment"
+				type: "item"
+			}]
+			tasks: [{
+				id: "12C04436E180163F"
+				item: "mekanism:pellet_polonium"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			icon: "minecraft:water_bucket"
+			id: "069A243F668ED7C3"
+			tasks: [{
+				id: "6466E57027400BBC"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["14545A6A3AB009B9"]
+			id: "6484156ED43474FF"
+			tasks: [{
+				id: "3571E25D59AEF905"
+				item: "mekanism:pellet_plutonium"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			id: "7E0D66CD1AE8A30F"
+			tasks: [{
+				id: "48AEBBDB9ECD4519"
+				item: "mekanism:sps_casing"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			id: "6430C3B081F0F05A"
+			tasks: [{
+				id: "48D63E5FD769B8E7"
+				item: "ue_addons:engineering_mechanism"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"6484156ED43474FF"
+				"7E0D66CD1AE8A30F"
+				"14545A6A3AB009B9"
+				"6430C3B081F0F05A"
+			]
+			icon: "ue_addons:incomplete_nuclear_mechanism"
+			id: "67AF662BCFE11308"
+			tasks: [{
+				id: "5E6688D78157AAA4"
+				title: " "
+				type: "checkmark"
+			}]
+			title: "{quest.cim.all.loops.1}"
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["67AF662BCFE11308"]
+			id: "74EC8719AF8D7E45"
+			size: 3.0d
+			tasks: [{
+				id: "1CF7F1A86BE5F769"
+				item: "ue_addons:nuclear_mechanism"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.5d
+		}
+	]
+	title: "{group.cim.nuclear.title}"
+}

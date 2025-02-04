@@ -1,0 +1,279 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "stone"
+	group: "42A499E14EC54388"
+	icon: "ue_addons:stone_mechanism"
+	id: "59841428F3676052"
+	images: [
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/chute.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -3.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/press.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/press.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -0.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2D1FBE1A5BE9614B"
+			subtitle: "{quest.cim.stone.cobblestone.subtitle}"
+			tasks: [{
+				id: "260878B025577D4C"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2D1FBE1A5BE9614B"]
+			id: "0963F76F60712B77"
+			subtitle: "{quest.cim.stone.flint.subtitle}"
+			tasks: [{
+				id: "0688C26CBA74D45D"
+				item: "minecraft:flint"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0963F76F60712B77"]
+			id: "7D15F97006460221"
+			subtitle: "{quest.cim.stone.tinder.subtitle}"
+			tasks: [{
+				id: "7B8E78E0BEDC7BE3"
+				item: "ue_addons:tinder"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7D15F97006460221"]
+			id: "1A1C56908E8773B2"
+			tasks: [{
+				id: "5BD1FC4EC1D35DFC"
+				item: "ue_addons:incomplete_stone_mechanism"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"1A1C56908E8773B2"
+				"450B4FFDA2E81315"
+			]
+			id: "0293CBB4442C1F71"
+			rewards: [{
+				count: 5
+				id: "1617A83B7236D660"
+				item: "minecraft:stone"
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "{quest.cim.stone.stone_mechanism.subtitle}"
+			tasks: [{
+				id: "0DE06BE61903C3E7"
+				item: "ue_addons:stone_mechanism"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			id: "7C40008BA9A6E7BD"
+			tasks: [{
+				id: "1CD6A3381E746046"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: 14.5d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"7C40008BA9A6E7BD"
+				"5056A295387CFCFE"
+			]
+			icon: "ue_addons:incomplete_stone_mechanism"
+			id: "450B4FFDA2E81315"
+			tasks: [{
+				id: "0469FE87707A0756"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.all.loops.2}"
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			id: "5056A295387CFCFE"
+			tasks: [{
+				id: "1DF4DC708AB039DF"
+				item: "ue_addons:wooden_mechanism"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -1.0d
+		}
+	]
+	title: "{group.cim.stone.title}"
+}

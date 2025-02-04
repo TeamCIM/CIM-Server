@@ -1,0 +1,4 @@
+#set to 0 tho have lilypads at the same exact position as vanilla.negative numbers will place them in their own blockspace right below avoiding any clipping.best of both worlds at default as its barely within its space
+#Range: -1.0 ~ 1.0
+y_offset = -0.016625
+

@@ -1,0 +1,23 @@
+# AdvancedConsoleFilter 配置文件
+
+#包含以下字符的消息将被过滤掉(大小写敏感)
+filters:
+  - "moved wrongly"
+  - "moved too "
+  - "is not in sorting list"
+  - "WARN"
+  - "RAM"
+  - "Memory cleanup"
+  - "ITEMS_MUSIC_DISCS"
+  - 'died, message'
+  - "Could not pass event PlayerItemHeldEvent to TrMenu"
+  - "Could not pass event PlayerSwapHandItemsEvent to TrMenu"
+  - "Could not pass event PlayerDropItemEvent to TrMenu"
+  - "Could not initialize class me.arasple.mc.trmenu.xseries.profiles.mojang.MojangAPI"
+  - "ClientboundTabListPacket"
+#是否检查Throwable
+checkThrowable: true
+
+#是否检查异常堆栈
+checkStackTrace: true
+

@@ -1,0 +1,12 @@
+{
+	chapter_groups: [
+		{ id: "713DAD32DDEB67FD", title: "{chapter.cim.misc.title}" }
+		{ id: "42A499E14EC54388", title: "{chapter.cim.vanilla.title}" }
+		{ id: "4341666A8B3D19F8", title: "{chapter.cim.create.title}" }
+		{ id: "1E3C5A5C0911B12F", title: "{chapter.cim.thermal.title}" }
+		{ id: "2E69808861BB6E02", title: "{chapter.cim.mekanism.title}" }
+		{ id: "6749F1B7D50EAC8A", title: "{chapter.cim.ae2.title}" }
+		{ id: "65785E5B6D945056", title: "{chapter.cim.nuclear.title}" }
+		{ id: "313388811A69B076", title: "{chapter.cim.final.title}" }
+	]
+}

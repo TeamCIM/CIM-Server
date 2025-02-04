@@ -1,0 +1,242 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "redstone"
+	group: "4341666A8B3D19F8"
+	icon: "vintageimprovements:redstone_module"
+	id: "34FC79E297D35FD9"
+	images: [
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/press.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "createaddition:block/rolling_mill/andesite_casing_short"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/piston_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -0.7d
+		}
+		{
+			height: 1.0d
+			image: "create_power_loader:block/andesite_chunk_loader_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "vintageimprovements:block/andesite_frame"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 0.5d
+			image: "vintageimprovements:item/iron_spring"
+			rotation: 135.0d
+			width: 0.5d
+			x: -0.7d
+			y: -0.6d
+		}
+		{
+			height: 0.5d
+			image: "vintageimprovements:item/iron_spring"
+			rotation: 135.0d
+			width: 0.5d
+			x: -1.3d
+			y: -0.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.0d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7BCB18A5C92C2617"
+			tasks: [{
+				id: "272F5A03B919C624"
+				item: "ue_addons:andsite_mechanism"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			icon: "minecraft:redstone"
+			id: "032573F3C0D02F06"
+			tasks: [{
+				id: "6621653302A45D73"
+				type: "checkmark"
+			}]
+			title: " "
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			id: "00251E05C5A9FC5F"
+			tasks: [{
+				id: "57D2897C70597BA1"
+				item: "minecraft:quartz"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"032573F3C0D02F06"
+				"7BCB18A5C92C2617"
+				"00251E05C5A9FC5F"
+			]
+			icon: "vintageimprovements:incomplete_redstone_module"
+			id: "33FA51517C63CC4E"
+			tasks: [{
+				id: "346E18B1C13C9E32"
+				title: "{quest.cim.all.loops.1}"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["33FA51517C63CC4E"]
+			id: "2AA27E60E412A5B9"
+			size: 3.0d
+			tasks: [{
+				id: "79C252051BED9971"
+				item: "vintageimprovements:redstone_module"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+	]
+	title: "{group.cim.redstone.title}"
+}

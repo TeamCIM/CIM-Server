@@ -1,0 +1,9 @@
+*.log
+/libraries
+/cache
+/modernfix
+/logs
+/crash-report
+/world
+/local
+/assets

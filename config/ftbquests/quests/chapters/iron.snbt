@@ -1,0 +1,362 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "iron"
+	group: "42A499E14EC54388"
+	icon: "ue_addons:iron_mechanism"
+	id: "19D5275031334B9A"
+	images: [
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/press.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -2.25d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/spout.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/misc/underwater.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "crystal_clear:block/copper_glass_casing"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/spout.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_crucible_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/chute.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 0.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1C9958CD7BDD990C"]
+			id: "738B54A55504DF26"
+			subtitle: "{quest.cim.iron.dark_brick.subtitle}"
+			tasks: [{
+				id: "0019AF35FC63BC4E"
+				item: "ue_addons:dark_brick"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["738B54A55504DF26"]
+			id: "2C2C432F7C254B39"
+			subtitle: "{quest.cim.iron.magma_crucible.subtitle}"
+			tasks: [
+				{
+					id: "7A8DF21CB74BD01A"
+					item: "thermal:machine_crucible"
+					type: "item"
+				}
+				{
+					id: "57C325F6808FB2D1"
+					item: "thermal:machine_chiller"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["738B54A55504DF26"]
+			id: "32EC04A5C7836522"
+			tasks: [{
+				id: "3A6CA8746CCC6CE7"
+				item: "ue_addons:mechanismcast"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "1C9958CD7BDD990C"
+			rewards: [
+				{
+					id: "1677C439482C8C94"
+					item: "minecraft:furnace"
+					type: "item"
+				}
+				{
+					id: "7F3A4C76BB1B738E"
+					item: "minecraft:coal"
+					type: "item"
+				}
+			]
+			subtitle: "{quest.cim.iron.raw_iron.subtitle}"
+			tasks: [{
+				id: "6E014294645B2A8D"
+				item: "minecraft:raw_iron"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["738B54A55504DF26"]
+			id: "381FCE3B4367A8FC"
+			rewards: [{
+				id: "179C5ED801D6BF54"
+				item: "minecraft:coal_block"
+				type: "item"
+			}]
+			subtitle: "{quest.cim.iron.stirling_dynamo.subtitle}"
+			tasks: [{
+				id: "2B0675D95022457F"
+				item: "thermal:dynamo_stirling"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"32EC04A5C7836522"
+				"381FCE3B4367A8FC"
+				"2C2C432F7C254B39"
+			]
+			id: "704E1493D1D1B060"
+			tasks: [{
+				id: "664088D759B21371"
+				item: "ue_addons:incomplete_iron_mechanism"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"704E1493D1D1B060"
+				"3A5401D8F59E04AF"
+			]
+			id: "22183D5C1D47B50B"
+			rewards: [{
+				id: "2010828495F5A716"
+				item: "minecraft:iron_block"
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "{quest.cim.iron.iron_mechanism.subtitle}"
+			tasks: [{
+				id: "6F8FB96CDF3388F8"
+				item: "ue_addons:iron_mechanism"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			icon: "minecraft:raw_iron"
+			id: "1D45BE6EAA073C1B"
+			tasks: [{
+				id: "325CE471529FE2AE"
+				type: "checkmark"
+			}]
+			title: " "
+			x: 10.5d
+			y: -5.5d
+		}
+		{
+			id: "3CC3B08B6981FB3E"
+			tasks: [{
+				id: "1A8429F6AE59C852"
+				item: "ue_addons:stone_mechanism"
+				type: "item"
+			}]
+			x: 14.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"3CC3B08B6981FB3E"
+				"1D45BE6EAA073C1B"
+			]
+			icon: "ue_addons:incomplete_iron_mechanism"
+			id: "3A5401D8F59E04AF"
+			tasks: [{
+				id: "2CE1CB641B587ED1"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.all.loops.1}"
+			x: 9.5d
+			y: -0.5d
+		}
+	]
+	title: "{group.cim.iron.title}"
+}

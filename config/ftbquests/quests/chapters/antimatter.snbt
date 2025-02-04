@@ -1,0 +1,246 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "antimatter"
+	group: "65785E5B6D945056"
+	icon: "ue_addons:antimatter_mechanism"
+	id: "0463A606ED6C9F33"
+	images: [
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_chiller_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/pellet_antimatter"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_insolator_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "vintageimprovements:block/vacuum_head"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/recipe_arrow_filled.png"
+			rotation: 180.0d
+			width: 1.375d
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/press.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 2.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "mekanism:heavy_water_bucket"
+			id: "22DEE18AFDC5657E"
+			tasks: [{
+				id: "4B0E8DF709B3BD31"
+				title: " "
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["22DEE18AFDC5657E"]
+			id: "2B7885C993542E86"
+			tasks: [{
+				id: "1A3724F9C911C060"
+				item: "mekanism:pellet_antimatter"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["55F32244446055D1"]
+			id: "45BF9D245D89BA49"
+			tasks: [{
+				id: "78CD20CF660B95DC"
+				item: "biomesoplenty:null_block"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			id: "55F32244446055D1"
+			tasks: [{
+				id: "109F69A0EA82DA61"
+				item: "biomesoplenty:null_plant"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["55F32244446055D1"]
+			id: "5044ACA89D6B7916"
+			tasks: [{
+				id: "63FA349CF9F37609"
+				item: "biomesoplenty:null_leaves"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5044ACA89D6B7916"]
+			id: "5AE69D670B44671E"
+			tasks: [{
+				id: "316EB73537D5A6F1"
+				item: "biomesoplenty:null_plant"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["266392051F52B018"]
+			id: "11AAE008F365513B"
+			size: 3.0d
+			tasks: [{
+				id: "6A512B34B74E5149"
+				item: "ue_addons:antimatter_mechanism"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "37D128C1C3870A85"
+			tasks: [{
+				id: "5DE7B498B9017DB1"
+				item: "ue_addons:nuclear_mechanism"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"37D128C1C3870A85"
+				"2B7885C993542E86"
+				"45BF9D245D89BA49"
+			]
+			icon: "ue_addons:incomplete_antimatter_mechanism"
+			id: "266392051F52B018"
+			tasks: [{
+				id: "3650398F0B5A4288"
+				title: "{quest.cim.all.loops.1}"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+	]
+	title: "{group.cim.antimatter.title}"
+}

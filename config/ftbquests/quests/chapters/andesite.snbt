@@ -1,0 +1,645 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "andesite"
+	group: "4341666A8B3D19F8"
+	icon: "ue_addons:andsite_mechanism"
+	id: "5741BE98F5D63E36"
+	images: [
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_rock_gen_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.35d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/basin.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.65d
+			y: -5.05d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_crucible_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.65d
+			y: -5.9d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/mixer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/chute.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.65d
+			y: -6.85d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/chute.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -4.25d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.5d
+			y: -3.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/press.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "create:block/mechanical_saw_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stonecutter_saw"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -7.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: -3.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: 12.0d
+			y: -5.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/press.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: 13.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: 12.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: 12.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -9.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "07F920132DB04F9B"
+			tasks: [{
+				id: "5E39BA70CB8951BC"
+				item: "minecraft:andesite"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["07F920132DB04F9B"]
+			id: "66DE458594D06377"
+			tasks: [{
+				id: "6273383572800D17"
+				item: "ue_addons:incomplete_andsite_mechanism"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"66DE458594D06377"
+				"348678DDC4E7ECE2"
+				"7197B167B33AE6EA"
+				"150E58FD22006DAC"
+			]
+			id: "5C4ABAD4FB685FFC"
+			rewards: [{
+				count: 5
+				id: "33D485C83071112F"
+				item: "minecraft:stone"
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "{quest.cim.andesite.andesite_mechanism.subtitle}"
+			tasks: [{
+				id: "19517B9A19633CA7"
+				item: "ue_addons:andsite_mechanism"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["07F920132DB04F9B"]
+			id: "348678DDC4E7ECE2"
+			rewards: [{
+				id: "5279710A84E33BE9"
+				item: "minecraft:andesite"
+				type: "item"
+			}]
+			tasks: [{
+				id: "785A82C44BA7473F"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["348678DDC4E7ECE2"]
+			icon: "create:cogwheel"
+			id: "7197B167B33AE6EA"
+			rewards: [{
+				id: "6E81A563D9AC2C8F"
+				item: "petrolsparts:coaxial_gear"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6471160302508E67"
+					item: "ue_addons:wooden_mechanism"
+					type: "item"
+				}
+				{
+					id: "1E83A7D380FCB627"
+					item: "create:shaft"
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			icon: "minecraft:andesite"
+			id: "22412D41734D2482"
+			tasks: [{
+				id: "1BD624B025DEB84D"
+				type: "checkmark"
+			}]
+			title: " "
+			x: 19.5d
+			y: -4.0d
+		}
+		{
+			icon: "minecraft:raw_iron"
+			id: "125160177166E624"
+			tasks: [{
+				id: "3395ECA0A5593417"
+				type: "checkmark"
+			}]
+			title: " "
+			x: 16.65d
+			y: -7.8d
+		}
+		{
+			dependencies: [
+				"125160177166E624"
+				"22412D41734D2482"
+			]
+			id: "149F17C70F3E59FB"
+			tasks: [{
+				id: "6E9A3C28A9D91F65"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			x: 17.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["149F17C70F3E59FB"]
+			icon: "createdeco:andesite_sheet"
+			id: "2DB5096302688E0C"
+			tasks: [{
+				id: "5F14288DD23BB6A7"
+				title: " "
+				type: "checkmark"
+			}]
+			x: 15.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["149F17C70F3E59FB"]
+			id: "6A1043704F128AD6"
+			tasks: [{
+				id: "6C0E7C2AB1AC309C"
+				item: "create:shaft"
+				type: "item"
+			}]
+			x: 14.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["6A1043704F128AD6"]
+			id: "45B5FDE765F86D1F"
+			tasks: [{
+				id: "006E83D7679A0DD8"
+				item: "create:cogwheel"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -7.0d
+		}
+		{
+			id: "0EEA3DAAC31A2FDF"
+			tasks: [{
+				id: "5D7A7A0CBA6E2391"
+				item: "ue_addons:iron_mechanism"
+				type: "item"
+			}]
+			x: 15.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"2DB5096302688E0C"
+				"0EEA3DAAC31A2FDF"
+				"45B5FDE765F86D1F"
+			]
+			icon: "ue_addons:incomplete_andsite_mechanism"
+			id: "150E58FD22006DAC"
+			tasks: [{
+				id: "5A6C7E899AFB931C"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.all.loops.1}"
+			x: 9.0d
+			y: -0.5d
+		}
+	]
+	title: "{group.cim.andesite.title}"
+}

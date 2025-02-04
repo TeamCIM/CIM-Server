@@ -1,0 +1,181 @@
+previous:
+  '-332087091':
+    file: AutoUpdatePlugins自动更新.jar
+    time: '2024-07-15 07:33:45'
+    dUrl: https://github.com/ApliNi/AutoUpdatePlugins/releases/download/v2.6.4/AutoUpdatePlugins-2.6.4.jar
+    feature: CL_3398683
+  '-2068638634':
+    file: '[功能][插件自动更新]AutoUpdatePlugins.jar'
+    time: '2024-07-15 11:48:56'
+    dUrl: https://cdn.modrinth.com/data/Ml07vPQX/versions/A2HfHiuQ/AutoUpdatePlugins-2.6.4.jar
+    feature: CL_3398683
+  '-1627431046':
+    file: '[功能][基岩版支持]Geyser-Spigot.jar'
+    time: '2024-08-23 04:36:14'
+    dUrl: https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/spigot
+    feature: CL_21734790
+  '-767387814':
+    file: '[功能][基岩版支持][登录]floodgate-spigot.jar'
+    time: '2025-02-03 21:26:11'
+    dUrl: https://download.geysermc.org/v2/projects/floodgate/versions/latest/builds/latest/downloads/spigot
+    feature: CL_11533069
+  '-845820256':
+    file: '[功能][跨版本]ViaVersion.jar'
+    time: '2025-02-03 21:26:14'
+    dUrl: https://cdn.modrinth.com/data/P1OZGk5p/versions/gGDz6lhG/ViaVersion-5.2.2-SNAPSHOT.jar
+    feature: CL_5021842
+  '1503577264':
+    file: '[功能][跨版本]ViaBackwards.jar'
+    time: '2025-02-03 21:26:16'
+    dUrl: https://cdn.modrinth.com/data/NpvuJQoq/versions/DwaFIGVI/ViaBackwards-5.2.2-SNAPSHOT.jar
+    feature: CL_1221407
+  '-710847504':
+    file: '[安全]CoreProtect.jar'
+    time: '2024-07-15 11:49:19'
+    dUrl: https://cdn.modrinth.com/data/Lu3KuzdV/versions/llmrc4cl/CoreProtect-22.4.jar
+    feature: CL_832017
+  '348128484':
+    file: '[功能][本地化]useTranslatedNames.jar'
+    time: '2024-07-15 11:49:23'
+    dUrl: https://cdn.modrinth.com/data/tX0NzIEh/versions/K00bA54m/useTranslatedNames.jar
+    feature: CL_50092
+  '-269863097':
+    file: '[功能][菜单]DeluxeMenus.jar'
+    time: '2024-09-28 09:46:25'
+    dUrl: https://api.spiget.org/v2/resources/11734/download
+    feature: CL_3802879
+  '-1491668712':
+    file: '[功能][控制台过滤]AdvancedConsoleFilter-Final.jar'
+    time: '2024-09-28 21:46:27'
+    dUrl: https://www.minebbs.com/resources/advanced-console-filter-folia.7427/download
+    feature: CL_33945
+  '-523036997':
+    file: '[安全][权限组]LuckPerms.jar'
+    time: '2024-09-15 00:41:02'
+    dUrl: https://api.spiget.org/v2/resources/28140/download
+    feature: CL_1431161
+  '-2066100122':
+    file: '[功能][多世界]multiverse-core.jar'
+    time: '2025-02-03 21:26:34'
+    dUrl: https://cdn.modrinth.com/data/3wmN97b8/versions/ehwU9G3y/multiverse-core-4.3.15-pre.2.jar
+    feature: CL_527619
+  '-1568185757':
+    file: '[优化][树叶快速腐烂]fast-leaf-decay.jar'
+    time: '2024-07-15 11:49:57'
+    dUrl: https://cdn.modrinth.com/data/PcKMtamx/versions/dlPwODtg/fast-leaf-decay-1.1.0.jar
+    feature: CL_36811
+  '1683929729':
+    file: '[功能][基岩版支持]BedrockPlayerSupport.jar'
+    time: '2024-09-29 09:46:50'
+    dUrl: https://api.spiget.org/v2/resources/115450/download
+    feature: CL_2451904
+  '-519268318':
+    file: '[功能][预生成区块]Chunky.jar'
+    time: '2024-07-15 11:50:07'
+    dUrl: https://cdn.modrinth.com/data/fALzjamp/versions/dPliWter/Chunky-1.4.16.jar
+    feature: CL_343847
+  '679563468':
+    file: '[功能][全息图]DecentHolograms.jar'
+    time: '2024-08-16 12:15:00'
+    dUrl: https://api.spiget.org/v2/resources/96927/download
+    feature: CL_1037040
+  '943766834':
+    file: '[功能][创世神优化版]FastAsyncWorldEdit.jar'
+    time: '2025-02-03 21:26:51'
+    dUrl: https://cdn.modrinth.com/data/z4HZZnLr/versions/GjiMsU0f/FastAsyncWorldEdit-Bukkit-2.12.3.jar
+    feature: CL_15845356
+  '1414525381':
+    file: '[功能][家]HuskHomes-Paper.jar'
+    time: '2024-08-22 08:37:12'
+    dUrl: https://api.spiget.org/v2/resources/83767/download
+    feature: CL_2668118
+  '-83708251':
+    file: '[功能][MOTD]minimotd-bukkit.jar'
+    time: '2025-02-03 21:26:57'
+    dUrl: https://cdn.modrinth.com/data/16vhQOQN/versions/58O77b7M/minimotd-sponge8-2.1.5.jar
+    feature: CL_692981
+  '-576557687':
+    file: '[功能][连锁挖矿]veinminer-bukkit.jar'
+    time: '2025-02-03 21:26:59'
+    dUrl: https://cdn.modrinth.com/data/OhduvhIc/versions/xTjs576l/veinminer-paper-2.3.1.jar
+    feature: CL_1255615
+  '-2022400548':
+    file: '[功能][TAB菜单][Bossbar]TAB.jar'
+    time: '2025-02-03 21:27:01'
+    dUrl: https://cdn.modrinth.com/data/gG7VFbG0/versions/56MVqzDo/TAB%20v5.0.5.jar
+    feature: CL_1383219
+  '1378382314':
+    file: '[功能][箱子商店]QuickShop-Hikari.jar'
+    time: '2025-02-03 21:27:06'
+    dUrl: https://cdn.modrinth.com/data/ijC5dDkD/versions/x4oJkRzb/QuickShop-Hikari-6.2.0.8.jar
+    feature: CL_3882457
+  '602216301':
+    file: '[功能][基岩版支持][扩展]GeyserExtras.jar'
+    time: '2025-02-03 21:27:09'
+    dUrl: https://cdn.modrinth.com/data/kOfJBurB/versions/Jx7eQUlr/GeyserExtras.jar
+    feature: CL_7560099
+  '-1977873435':
+    file: '[功能][性能检测]spark.jar'
+    time: '2025-02-03 21:30:44'
+    dUrl: https://api.spiget.org/v2/resources/57242/download
+    feature: CL_3945183
+  '-591054743':
+    file: '[前置][占位符API]PlaceholderAPI.jar'
+    time: '2024-09-18 12:38:21'
+    dUrl: https://api.spiget.org/v2/resources/6245/download
+    feature: CL_933131
+  '1234087256':
+    file: '[前置][经济]Vault.jar'
+    time: '2024-09-27 21:48:22'
+    dUrl: https://api.spiget.org/v2/resources/34315/download
+    feature: CL_272259
+  '2114574099':
+    file: '[安全][插件隐藏]PL-Hide.jar'
+    time: '2024-09-26 17:49:37'
+    dUrl: https://api.spiget.org/v2/resources/68767/download
+    feature: CL_39986
+  '225528998':
+    file: '[功能][语音]PlasmoVoice-Paper.jar'
+    time: '2024-09-28 17:50:04'
+    dUrl: https://cdn.modrinth.com/data/1bZhdhsH/versions/kECjTa4H/plasmovoice-neoforge-1.21-2.1.0.jar
+    feature: CL_11897782
+  '1586303758':
+    file: '[安全][方块锁]Bolt.jar'
+    time: '2024-08-24 08:37:29'
+    dUrl: https://api.spiget.org/v2/resources/109679/download
+    feature: CL_1503286
+  '766699702':
+    file: '[管理][隐身]SuperVanish.jar'
+    time: '2024-09-28 13:49:18'
+    dUrl: https://api.spiget.org/v2/resources/1331/download
+    feature: CL_181215
+  '-1622014676':
+    file: '[功能][基岩版支持]Geyser-Spigot.jar'
+    time: '2025-02-03 21:26:02'
+    dUrl: https://cdn.modrinth.com/data/wKkoqHrH/versions/aq2OFs4I/geyser-fabric-Geyser-Fabric-2.6.0-b754.jar
+    feature: CL_16415771
+  '1989761165':
+    file: '[功能][全息图]DecentHolograms.jar'
+    time: '2025-02-03 21:26:49'
+    dUrl: https://cdn.modrinth.com/data/w02MKsTg/versions/daamc5QO/DecentHolograms-2.8.12.jar
+    feature: CL_1040171
+  '-1842671669':
+    file: '[功能][家]HuskHomes-Paper.jar'
+    time: '2025-02-03 21:26:55'
+    dUrl: https://cdn.modrinth.com/data/J6U9o3JG/versions/D9vxM982/HuskHomes-Fabric-4.9.2-473c5e7%2Bmc.1.21.4.jar
+    feature: CL_24280838
+  '706784832':
+    file: '[安全][方块锁]Bolt.jar'
+    time: '2024-09-02 15:00:04'
+    dUrl: https://cdn.modrinth.com/data/YqbUofZE/versions/vjzlyNv6/Bolt-1.1.23.jar
+    feature: CL_1504765
+  '-55231330':
+    file: '[前置][NBTAPI]item-nbt-api-plugin.jar'
+    time: '2025-02-03 21:30:51'
+    dUrl: https://cdn.modrinth.com/data/nfGCP9fk/versions/Llpc7SPZ/item-nbt-api-plugin-2.14.1.jar
+    feature: CL_240009
+  '-1168410370':
+    file: '[功能][加入物品]ItemJoin.jar'
+    time: '2025-02-03 21:26:27'
+    dUrl: https://cdn.modrinth.com/data/8OiYKudu/versions/SZdLfF4q/ItemJoin.jar
+    feature: CL_821349

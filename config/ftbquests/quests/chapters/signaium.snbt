@@ -1,0 +1,379 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "signaium"
+	group: "1E3C5A5C0911B12F"
+	icon: "ue_addons:signalum_mechanism"
+	id: "38D23B69C22E3A0B"
+	images: [
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -0.15d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -0.15d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -0.15d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/chute.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/chute.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/chute.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/basin.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.85d
+			y: -1.85d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe2.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -1.15d
+			y: -1.85d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_crucible_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.15d
+			y: -2.7d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_crucible_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.85d
+			y: -2.7d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/chute.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.15d
+			y: -3.55d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/chute.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.85d
+			y: -3.55d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/mixer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 2.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "thermal:rf_coil"
+			id: "277EC1785BA170D1"
+			tasks: [{
+				id: "7C5F094E74614113"
+				type: "checkmark"
+			}]
+			title: " "
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			id: "1DF99A334D134274"
+			tasks: [{
+				id: "4586547C12D4A3EF"
+				item: "thermal:constantan_gear"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "0F1AFFB7EA082EBE"
+			tasks: [{
+				id: "7034ADE16C1552D8"
+				item: "thermal:silver_dust"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			icon: "minecraft:raw_copper"
+			id: "07E971831E22C02A"
+			tasks: [{
+				id: "70FAA982FA53CA34"
+				type: "checkmark"
+			}]
+			title: " "
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"082BC081DB0E21C6"
+				"07E971831E22C02A"
+				"0F1AFFB7EA082EBE"
+			]
+			id: "1880A50060DAA037"
+			tasks: [{
+				id: "0F76D60C546D2140"
+				item: "thermal:signalum_ingot"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["416457C71377C5AB"]
+			id: "1A74BEE32918541C"
+			tasks: [{
+				id: "29335952226DB6E7"
+				item: "ue_addons:thermal_mechanism"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2F0C1172D324D9A0"]
+			id: "5756610BB40D68A5"
+			rewards: [{
+				id: "27CB053188B9A9BE"
+				item: "supplementaries:lumisene_bucket"
+				type: "item"
+			}]
+			size: 3.0d
+			tasks: [{
+				id: "40E619F0DC7619BB"
+				item: "ue_addons:signalum_mechanism"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			icon: "minecraft:redstone"
+			id: "082BC081DB0E21C6"
+			tasks: [{
+				id: "65598F313F7ED2AA"
+				type: "checkmark"
+			}]
+			title: " "
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"277EC1785BA170D1"
+				"1DF99A334D134274"
+				"1880A50060DAA037"
+				"1A74BEE32918541C"
+			]
+			icon: "ue_addons:incomplete_sinalum_mechanism"
+			id: "2F0C1172D324D9A0"
+			tasks: [{
+				id: "0924ABAE88C8FDA2"
+				title: "Loop 1"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+	]
+	title: "{group.cim.signalum.title}"
+}

@@ -1,0 +1,248 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gold"
+	group: "42A499E14EC54388"
+	icon: "ue_addons:gold_mechanism"
+	id: "13C9441BC3C39760"
+	images: [
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_crucible_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.355d
+			y: -1.255d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/chute.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.35d
+			y: -2.15d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -1.255d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/spout.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -0.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/water_still"
+			rotation: 0.0d
+			width: 0.03125d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/water_still"
+			rotation: 0.0d
+			width: 0.03125d
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/press.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/spout.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -0.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/misc/underwater.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "crystal_clear:block/copper_glass_casing"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			order: -99
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -1.2d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 1.0d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "36CC9D4AA5C90592"
+			subtitle: "{quest.cim.gold.raw_gold.subtitle}"
+			tasks: [{
+				id: "37F7B2EABDD37C0C"
+				item: "minecraft:raw_gold"
+				type: "item"
+			}]
+			x: -2.35d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7181B214A2C55DC2"]
+			id: "13586AEF1E5E0822"
+			rewards: [{
+				count: 5
+				id: "2881BD4236551E2D"
+				item: "minecraft:stone"
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "{quest.cim.gold.gold_mechanism.subtitle}"
+			tasks: [{
+				id: "5914AEA5988ABFFD"
+				item: "ue_addons:gold_mechanism"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"36CC9D4AA5C90592"
+				"681E59D837279E7A"
+			]
+			icon: "ue_addons:incomplete_gold_mechanism"
+			id: "7181B214A2C55DC2"
+			tasks: [{
+				id: "4D70876764B29B51"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.all.loops.1}"
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			id: "681E59D837279E7A"
+			tasks: [{
+				id: "1FF9472A19A48613"
+				item: "ue_addons:iron_mechanism"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+	]
+	title: "{group.cim.gold.title}"
+}

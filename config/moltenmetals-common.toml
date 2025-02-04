@@ -1,0 +1,7 @@
+#Disables Trident functionality and removes them from the Creative Tab, Doesn't remove their recipes.
+#Default: false
+disableTridents = false
+#Disables Sysouts added by the mod that announces recipes and blacklisted items.
+#Default: true
+disableSysouts = true
+

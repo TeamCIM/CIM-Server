@@ -1,0 +1,2128 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "copper"
+	group: "4341666A8B3D19F8"
+	icon: "ue_addons:copper_mechanism"
+	id: "63F3DB42B50DEC24"
+	images: [
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/spout.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_crucible_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/chute.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/press.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/spout.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/misc/underwater.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "crystal_clear:block/copper_glass_casing"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "create:block/fan_side"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 0.05d
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:textures/particle/flame.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:textures/particle/flame.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "chisel:block/array/orange_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "create_connected:block/fan_catalyst_core"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:textures/particle/generic_7.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:textures/particle/generic_7.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/fan_side"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/basin.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/press.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/rubberwood_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/birch_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/birch_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/birch_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/birch_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/birch_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/birch_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/birch_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/birch_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/basin.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_tree_extractor_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.1d
+			y: -3.8d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_tree_extractor_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.6d
+			y: -3.8d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/devices/device_tree_extractor_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.6d
+			y: -3.8d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/spout.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/pipe.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/ftbmisc/spout.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/origin_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: 2.0d
+			y: -1.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "45D6080D22E19ABE"
+			subtitle: "{quest.cim.copper.raw_copper.subtitle}"
+			tasks: [{
+				id: "408A4995754B5F51"
+				item: "minecraft:raw_copper"
+				type: "item"
+			}]
+			x: -19.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["45D6080D22E19ABE"]
+			id: "72256D6445DAA68A"
+			tasks: [{
+				id: "0843F99FA273D326"
+				item: "ue_addons:incomplete_copper_mechanism"
+				type: "item"
+			}]
+			x: -18.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"7C40008BA9A6E7BD"
+				"7181B214A2C55DC2"
+				"13586AEF1E5E0822"
+				"36CC9D4AA5C90592"
+				"1D24F847F9154756"
+				"4049E22A388159E7"
+			]
+			id: "7E18E7377E597C56"
+			rewards: [{
+				id: "09FE11B90AED58B0"
+				item: "minecraft:end_stone"
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "{quest.cim.copper.copper_mechanism.subtitle}"
+			tasks: [{
+				id: "5E69DDE2E04845DF"
+				item: "ue_addons:copper_mechanism"
+				type: "item"
+			}]
+			x: -13.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["72256D6445DAA68A"]
+			id: "1D24F847F9154756"
+			rewards: [{
+				id: "5E133FD5172A199F"
+				item: "thermal:cured_rubber_block"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0E555977D97B7691"
+					item: "thermal:resin_bucket"
+					type: "item"
+				}
+				{
+					id: "39A0638C83A44BFD"
+					item: "thermal:device_tree_extractor"
+					type: "item"
+				}
+				{
+					id: "6079C1DA3AB1795D"
+					item: "thermal:syrup_bucket"
+					type: "item"
+				}
+				{
+					id: "14CE356059580DD9"
+					item: "thermal:sap_bucket"
+					type: "item"
+				}
+				{
+					id: "47B840EC2FD780B5"
+					item: "thermal:cured_rubber"
+					type: "item"
+				}
+			]
+			x: -16.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["062A9BB4097E6070"]
+			id: "69692F54BDF7FB01"
+			tasks: [{
+				id: "4AE925A7CB6D47B4"
+				item: "thermal:cured_rubber"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["265F9B4026BC6DA6"]
+			id: "062A9BB4097E6070"
+			tasks: [{
+				id: "063C6AC10A11104A"
+				item: "thermal:rubber"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "265F9B4026BC6DA6"
+			tasks: [{
+				id: "42C08A8B21C5BADC"
+				item: "thermal:latex_bucket"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			id: "1E80CC4F8C3C6CBC"
+			tasks: [{
+				id: "62EEB334AD040DB4"
+				item: "thermal:sap_bucket"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			id: "358F182F717FC444"
+			tasks: [{
+				id: "17E4E80D5F6266A1"
+				item: "thermal:resin_bucket"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -4.5d
+		}
+		{
+			icon: "minecraft:raw_copper"
+			id: "73375E3F76589B91"
+			tasks: [{
+				id: "17A0C20D08236A07"
+				type: "checkmark"
+			}]
+			title: " "
+			x: 6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"73375E3F76589B91"
+				"358F182F717FC444"
+				"69692F54BDF7FB01"
+				"1E80CC4F8C3C6CBC"
+				"514DAF548A0B99ED"
+			]
+			icon: "ue_addons:incomplete_copper_mechanism"
+			id: "4049E22A388159E7"
+			tasks: [{
+				id: "363AD06330AD84E4"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.all.loops.1}"
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			id: "514DAF548A0B99ED"
+			tasks: [{
+				id: "7106EB34CA1059C9"
+				item: "ue_addons:andsite_mechanism"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+	]
+	title: "{group.cim.copper.title}"
+}

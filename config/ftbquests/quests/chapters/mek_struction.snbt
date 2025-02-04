@@ -1,0 +1,465 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mek_struction"
+	group: "2E69808861BB6E02"
+	icon: "ue_addons:structural_mechanism"
+	id: "41BECC8C819656D8"
+	images: [
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/ftbmisc/deployer.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/enrichment_chamber/front_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "thermal:block/machines/machine_insolator_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/crusher/front_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/belt2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/prc.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/prc.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/rotary.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/ftbmisc/separate.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "polylib:textures/gui/widgets/progress_arrow_full.png"
+			rotation: 90.0d
+			width: 1.375d
+			x: -6.5d
+			y: -2.0d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2D33818CADE67772"]
+			id: "352087D16D4CF471"
+			tasks: [{
+				id: "7B79B511B37C19E3"
+				item: "mekanism:hdpe_sheet"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"4D1346F56E0DAB2B"
+				"097BD05B218CE11E"
+				"639235B2AB17FC44"
+			]
+			id: "2D33818CADE67772"
+			tasks: [{
+				id: "12E57BD634B80EE1"
+				item: "mekanism:hdpe_pellet"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7F41BC4E65A49A8D"]
+			icon: "mekanism:hydrogen_bucket"
+			id: "3889F71DE8AFBECF"
+			tasks: [{
+				id: "2BB22B1D988F662C"
+				title: " "
+				type: "checkmark"
+			}]
+			title: "{gas.mekanism.hydrogen}"
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["7F41BC4E65A49A8D"]
+			icon: "mekanism:oxygen_bucket"
+			id: "639235B2AB17FC44"
+			tasks: [{
+				id: "3CE49181EC1B55FF"
+				title: " "
+				type: "checkmark"
+			}]
+			title: "{gas.mekanism.oxygen}"
+			x: -10.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"0D9C98941E233968"
+				"3889F71DE8AFBECF"
+			]
+			id: "097BD05B218CE11E"
+			tasks: [{
+				id: "50705A605567A9CB"
+				item: "mekanism:substrate"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -4.0d
+		}
+		{
+			id: "0D9C98941E233968"
+			tasks: [{
+				id: "167E3E4113D811DA"
+				item: "mekanism:bio_fuel"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0D9C98941E233968"]
+			icon: "mekanism:ethene_bucket"
+			id: "21BE87FDCD2104A0"
+			tasks: [{
+				id: "50B7E404409844D3"
+				type: "checkmark"
+			}]
+			title: "{gas.mekanism.ethene}"
+			x: -10.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["21BE87FDCD2104A0"]
+			icon: "mekanism:ethene_bucket"
+			id: "4D1346F56E0DAB2B"
+			tasks: [{
+				id: "5786ED3DADBB2583"
+				title: " "
+				type: "checkmark"
+			}]
+			title: "{block.mekanism.ethene}"
+			x: -8.5d
+			y: -3.0d
+		}
+		{
+			id: "7F41BC4E65A49A8D"
+			tasks: [{
+				id: "226391A5E4344DCE"
+				item: "minecraft:water_bucket"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -5.5d
+		}
+		{
+			id: "50AF63DB701BCBD8"
+			tasks: [{
+				id: "7E01ADB4FE71A8F3"
+				item: "mekanism:ingot_osmium"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			id: "4F159DF0955B62A5"
+			tasks: [{
+				id: "5E37F25BF0692689"
+				item: "thermal:lead_ingot"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			id: "3B14836AFFC93462"
+			tasks: [{
+				id: "47F08A049F422DC6"
+				item: "thermal:tin_ingot"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			id: "0CDBC61880A8DFDA"
+			tasks: [{
+				id: "601C538EFD5C3FF4"
+				item: "mekanism:ingot_steel"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "4B28A8C50F7A8D90"
+			tasks: [{
+				id: "499AF07BA80F04EF"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			id: "5EF3CBB4B2B86017"
+			tasks: [{
+				id: "33878BB426774D76"
+				item: "ue_addons:ultimate_mekanism_mechanism"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"0CDBC61880A8DFDA"
+				"3B14836AFFC93462"
+				"4B28A8C50F7A8D90"
+				"50AF63DB701BCBD8"
+				"5EF3CBB4B2B86017"
+				"4F159DF0955B62A5"
+				"352087D16D4CF471"
+			]
+			icon: "ue_addons:incomplete_structural_mechanism"
+			id: "079748061428430A"
+			tasks: [{
+				id: "3F6DCCCAD549D23C"
+				title: "{check.cim.all}"
+				type: "checkmark"
+			}]
+			title: "{quest.cim.all.loops.1}"
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["079748061428430A"]
+			id: "1931BB5F5BBC0EAB"
+			size: 3.0d
+			tasks: [{
+				id: "61113515564D908A"
+				item: "ue_addons:structural_mechanism"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+	]
+	title: "{group.cim.mek_structral.title}"
+}
