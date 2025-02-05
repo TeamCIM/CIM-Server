@@ -88,9 +88,6 @@ list:
   - file: '[优化][树叶快速腐烂]fast-leaf-decay.jar'
     url: https://modrinth.com/plugin/fast-leaf-decay
 
-  - file: '[功能][箱子商店]QuickShop-Hikari.jar'
-    url: https://modrinth.com/plugin/quickshop-hikari
-
   - file: '[功能][性能检测]spark.jar'
     url: https://www.spigotmc.org/resources/spark.57242/
 

@@ -9,3 +9,8 @@
 /assets
 /.arclight
 /kiwipacks
+usercache.json
+usernamecache.json
+whitelist.json
+permissions.yml
+ops.json
